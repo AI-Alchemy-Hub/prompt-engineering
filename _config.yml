@@ -1,0 +1,20 @@
+# Jekyll configuration for GitHub Pages
+title: Prompt Engineering
+description: Curated prompt libraries, templates, and pedagogical resources for Generative AI. Part of AI Alchemy Hub.
+theme: just-the-docs
+
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /prompt-engineering
+url: "https://ai-alchemy-hub.github.io/prompt-engineering"
+
+# Navigation order (optional, for sidebar)
+nav_order: 1
+
+# Search functionality
+search_enabled: true
+
+# Color scheme (light/dark toggle)
+color_scheme: light
+
+# Footer customization
+footer_content: "© 2025 AI Alchemy Hub · Licensed under MIT"
